@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 293e2977574c0e943bb42857c2a3aa15, type: 3}
+  m_Name: Playlist_1
+  m_EditorClassIdentifier: 
+  PlaylistName: Love For Jakey
+  SongsList:
+  - {fileID: 11400000, guid: 831a11710d70420499e46dd02e5032fb, type: 2}
+  - {fileID: 11400000, guid: 3607d90adade21f4d868bd8141f74c9a, type: 2}
+  - {fileID: 11400000, guid: 057ce6ac17c8c2441b6da59f3c94bbea, type: 2}
+  SongNumber: 1
+  LastSongSeek: 4.4067154
+  CurrentSongLength: 115.04327
+  CurrentlyPlaying: 1

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6c93e49f7a1c02c48922bbc0c29904d2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Quanta Grotesk Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 72947e35481085545add2e4d5862c759, type: 3}
+  - {fileID: 12800000, guid: 7758dc9343cc2104fb63e0206033b9fc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
