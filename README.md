@@ -1,11 +1,19 @@
 # Simple Radio
 
-A simple radio system implementation in Unity similar to the likes of Forza Horizon.
+A simple radio system implementation similar to the likes of Forza Horizon.
 
 Pre-requisites:
 
 - New Input System (for input)
 - DoTween (for animations of the UI)
+
+Usage:
+
+- Go to: `Assets\Features\MusicPlayer\Prefabs`
+- Drag n drop the prefab into a Canvas
+- Drag n drop your desired audio source
+- Play your scene
+- Press ‘P’ to change playlists (or stations as I like to call it)
 
 The system consists of two ScriptableObjects: `Playlist` and `Song` . Each `Playlist` contains the following data:
 
