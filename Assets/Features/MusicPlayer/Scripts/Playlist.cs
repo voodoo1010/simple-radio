@@ -7,10 +7,10 @@ public class Playlist : ScriptableObject
 {
     public string PlaylistName;
     public List<Song> SongsList;
-    public int SongNumber;
-    public float LastSongSeek;
-    public float CurrentSongLength;
-    public bool CurrentlyPlaying;
+    [HideInInspector] public int SongNumber;
+    [HideInInspector] public float LastSongSeek;
+    [HideInInspector] public float CurrentSongLength;
+    [HideInInspector] public bool CurrentlyPlaying;
 
     public void InitializeData()
     {
