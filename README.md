@@ -1,6 +1,6 @@
 # Simple Radio
 
-A simple radio system implementation similar to the likes of Forza Horizon.
+A simple radio system implementation in Unity similar to the likes of Forza Horizon.
 
 Pre-requisites:
 
